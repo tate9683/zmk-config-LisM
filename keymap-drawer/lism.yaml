@@ -20,7 +20,7 @@ layers:
   - {t: J, h: RGUI}
   - {t: K, h: RSHIFT}
   - {t: L, h: RALT}
-  - {t: ;, h: Mark Layer}
+  - {t: '-', h: Mark Layer}
   - Z
   - X
   - C
